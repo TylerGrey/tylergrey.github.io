@@ -19,7 +19,7 @@ jobs:
         hugo-version: '0.62.0'
 
     - name: Build
-      run: hugo -D
+      run: HUGO_ENV=production hugo --gc --minify
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
