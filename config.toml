@@ -80,7 +80,7 @@ staticDir = ["static", "themes/LoveIt/assets/others"]               # static dir
   linkToMarkdown = true                                  # whether to show link to Raw Markdown content of the post
 
                                                       #### site verification code for Google/Bing/Yandex/Pinterest/Baidu
-  google_verification = ""
+  google_verification = "A7K3dY_Jr15FZtvhM4TXJoWpWAynx5uwbuEdH4bnmyE"
   bing_verification = ""
   yandex_verification = ""
   pinterest_verification = ""
