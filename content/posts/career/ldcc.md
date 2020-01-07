@@ -2,7 +2,7 @@
 title: "롯데정보통신 Spec 태클 후기"
 date: 2019-12-26T10:00:00+09:00
 lastmod: 2019-12-26T10:00:00+09:00
-draft: true
+draft: false
 description: "롯데정보통신 2019 상반기 스펙태클 후기입니다."
 show_in_homepage: true
 show_description: false
