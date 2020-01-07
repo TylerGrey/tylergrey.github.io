@@ -1,7 +1,7 @@
 baseURL = "https://tylergrey.github.io/"
 languageCode = "en"                                      # website language
 defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
-title = "기술 블로그"                                   # website title
+title = "기술 블로그"                                       # website title
 theme = "LoveIt"                                         # theme
 enableGitInfo = false                                    # whether to use git commit log to generate lastmod record
 hasCJKLanguage = false                                   # whether to include chinese/japanese/korean
@@ -9,7 +9,7 @@ paginate = 12                                            # default amount of pos
 enableEmoji = true                                       # whether to use emoji code
 enableRobotsTXT = true                                   # whether to use robots.txt
 googleAnalytics = ""                                     # [UA-XXXXXXXX-X] google analytics code
-disqusShortname = "dillonzq"                             # Disqus shortname to use Disqus in posts
+disqusShortname = "tylergrey"                             # Disqus shortname to use Disqus in posts
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
                                                          # copyright description used only for seo schema
 
@@ -65,8 +65,8 @@ staticDir = ["static", "themes/LoveIt/assets/others"]               # static dir
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 6                                      # special amount of posts in each home post page
-  avatar = "images/avatar.png"                           # URL of avatar shown in home page
-  subtitle = "A Clean, Elegant but Advanced Hugo Theme"  # subtitle shown in home page
+  avatar = "images/profile.jpeg"                           # URL of avatar shown in home page
+  subtitle = "생각하는 대로 살자."  # subtitle shown in home page
 
   socialShare = true                                     # whether to show social share links in post page
 
@@ -112,11 +112,11 @@ staticDir = ["static", "themes/LoveIt/assets/others"]               # static dir
 
   [params.social]                                        # Social Info in home page
     GitHub = "TylerGrey"
-    Linkedin = "현규-최-1a7971188"
+    #Linkedin = "현규-최-1a7971188"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
-    #Email = "xxxx"
-    #Facebook = "xxxx"
+    Email = "tyler.grey76@gmail.com"
+    #Facebook = "hyunkyu"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
