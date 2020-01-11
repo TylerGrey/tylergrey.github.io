@@ -25,7 +25,7 @@ staticDir = ["static", "themes/LoveIt/assets/others"]               # static dir
   name = "Tyler Grey"
 
 [sitemap]                                             #### Sitemap Info
-  changefreq = "weekly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
 
