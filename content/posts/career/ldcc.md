@@ -1,17 +1,16 @@
 ---
-title: "롯데정보통신 Spec 태클 후기"
+title: "롯데정보통신 스펙태클 후기"
 date: 2019-12-26T10:00:00+09:00
 lastmod: 2019-12-26T10:00:00+09:00
 draft: false
-description: "롯데정보통신 2019 상반기 스펙태클 후기입니다."
 show_in_homepage: true
 show_description: false
-license: ''
+license: 'Tyler Grey'
 
 tags: ['SPEC태클', '롯데정보통신']
 categories: ['커리어']
 
-featured_image: ''
+featured_image: 'images/ldcc_logo.jpg'
 featured_image_preview: ''
 
 comment: true
