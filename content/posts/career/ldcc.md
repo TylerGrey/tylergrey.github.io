@@ -10,7 +10,7 @@ license: 'Tyler Grey'
 tags: ['SPEC태클', '롯데정보통신']
 categories: ['커리어']
 
-featured_image: 'images/ldcc_logo.jpg'
+featured_image: '/images/ldcc_logo.png'
 featured_image_preview: ''
 
 comment: true
